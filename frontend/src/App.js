@@ -1,11 +1,9 @@
-import LoginPage from './pages/login-page';
+import Main from './pages/main.jsx';
 
 function App() {
   return (
-    <div>
-       <LoginPage/>
-    </div>
-  );
+    <Main/>
+    );
 }
 
 export default App;
